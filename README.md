@@ -79,20 +79,6 @@ Colorectal cancer is one of the leading causes of cancer-related deaths globally
 
 ---
 
-## 📷 Suggested Images to Include
-
-Add these images to the `images/` directory and reference them in your README:
-
-1. `feature_importance.png` – Bar plot from RandomForest feature importance
-2. `confusion_matrix.png` – Model confusion matrix (from VotingClassifier)
-3. `roc_curve.png` – ROC curve showing model performance
-4. `survival_trends.png` – Line graph comparing survival predictions over years
-5. `tumor_size_distribution.png` – Histogram of tumor size ranges
-6. `gender_insights.png` – Graph showing survival rate differences by gender
-7. `primary_tumor_sites.png` – Bar chart of tumor site frequencies
-
----
-
 ## 📄 References
 
 - SEER Dataset: [https://seer.cancer.gov](https://seer.cancer.gov)  
